@@ -1,3 +1,5 @@
+<!-- ======================== ORIGINAL THEME FOOTER (COMMENTED OUT) ======================== -->
+<!--
 {% include base_path %}
 
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
@@ -21,5 +23,20 @@
 
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
+-->
+
+<!-- ======================== CUSTOM FOOTER ======================== -->
+
+<footer class="page__footer">
+  <div style="text-align: center; font-size: 0.9rem; color: #777; line-height: 1.6;">
+    © 2025 <strong>Yan (Phoenix) Liu</strong><br>
+    Ph.D. Candidate in Nuclear Science, Shanghai Jiao Tong University  
+    <br>
+    <a href="mailto:yanliu0729@outlook.com">Contact</a> · 
+    <a href="/cv/">Curriculum Vitae</a>
+    <br>
+    <em>Last updated: {{ "now" | date: "%Y-%m-%d" }}</em>
+  </div>
+</footer>
