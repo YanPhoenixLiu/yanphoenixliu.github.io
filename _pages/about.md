@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-<br><br>
-
 **Hi there, I am Yan (Phoenix) Liu 👋**
 
 <div style="text-align: justify">
 I am a Ph.D. Candidate in School of Mechanical Engineering, Shanghai Jiao Tong University. I obtained my BS in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my PhD in Nuclear Science in 2026 also from Shanghai Jiao Tong University.
 </div>
+
+<div style="text-align: justify">
 I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the thermal hydralics-netronics-material-chemistry coupling mechanism of nuclear reactors, developing a high-fidelity multi-physics multi-scale coupling analysis verification method, and establishing a digital design analysis method.
 </div>
 
