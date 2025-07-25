@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yan Liu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yan (Phoenix) Liu"
+  name             : "刘延 Yan (Phoenix) Liu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate"
   location         : "Shanghai, China"
