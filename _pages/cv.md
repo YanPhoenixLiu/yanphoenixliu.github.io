@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
+📄 Download my full CV in PDF
+
 {% include base_path %}
 
-<div style="height: 1.0em;"></div>
+<div style="height: 1.5em;"></div>
 
 Education
 ======
