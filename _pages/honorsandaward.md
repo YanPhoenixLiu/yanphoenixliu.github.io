@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Honors and Awards"
 permalink: /honorsandaward/
 author_profile: true
