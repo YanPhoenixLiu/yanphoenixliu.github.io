@@ -14,14 +14,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Patents and Softwares"
+    url: /patentsandsoftwares/
+  
+  - title: "Projects"
+    url: /projects/
+  
   - title: "Honors and Awards"
     url: /honorsandaward/
 
   #- title: "Education"
   #  url: /education/
-
-  - title: "Projects"
-    url: /projects/
 
   #- title: "Talks"
   #  url: /talks/    
