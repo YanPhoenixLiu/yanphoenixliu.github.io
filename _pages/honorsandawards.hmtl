@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Honors and Awards"
+permalink: /honorsandawards/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.honorsandawards reversed %}
+  {% include archive-single.html %}
+{% endfor %}
