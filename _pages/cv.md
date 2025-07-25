@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="height: 1.0em;"></div>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Nuclear Science, Shanghai Jiao Tong University, 2021-2016 (expected)
+* B.S. in Nuclear Engineering, Shanghai Jiao Tong University, 2017-2021
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div style="height: 1.0em;"></div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Selected Five Publications
+======
+<div style="text-align: justify">
+1. **Yan Liu**, Xiaojing Liu\*, Tengfei Zhang & Hui He. Understanding flow fouling deposition and solute hideout–return behavior at the phase change interface. ACS Applied Materials & Interfaces 16, 4719–4728 (2024).
+</div>
+<div style="text-align: justify">
+1. **Yan Liu**, Xiaojing Liu\*, Hui He, Tengfei Zhang & Xiang Chai. Synthesizing nuclear power plant fouling with fractal characteristics enables an in-depth study of concerned nuclear safety issues. iScience 27, 108789 (2024).
+</div>
+<div style="text-align: justify">
+1. **Yan Liu**, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Pressurized water reactor fuel corrosion-related unidentified deposit and its related safety issues – I. Corrosion product deposition and heat transfer. Ann. Nucl. Energy 208, 110758 (2024).
+</div>
+<div style="text-align: justify">
+1. **Yan Liu**, Jiajie Chen, Guolian Wang, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Pressurized water reactor fuel corrosion-related unidentified deposit and its related safety issues – II. Corrosion product deposition and heat transfer modeling. Ann. Nucl. Energy 211, 110932 (2025).
+</div>
+<div style="text-align: justify">
+1. **Yan Liu**†, Guolian Wang†, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Pressurized water reactor fuel corrosion-related unidentified deposit and its related safety issues – III. N-TH-M coupled CIPS prediction. Ann. Nucl. Energy 208, 110800 (2024).
+</div>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<div style="height: 1.0em;"></div>
   
-Skills
+Research Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<div style="height: 1.0em;"></div>
   
-Talks
+Honors and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+<div style="height: 1.0em;"></div>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Services
 ======
 * Currently signed in to 43 different slack teams
