@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "Publications"
@@ -31,6 +32,45 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
+-->
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<div class="wordwrap" style="margin-bottom: 1em; font-size: 0.95rem; text-align: justify;">
+  You can also find a full list of my publications on 
+  {% if site.author.googlescholar %}
+    <a href="{{ site.author.googlescholar }}" target="_blank">Google Scholar</a>
+  {% endif %}
+  {% if site.author.googlescholar and site.author.researchgate %} and {% endif %}
+  {% if site.author.researchgate %}
+    <a href="{{ site.author.researchgate }}" target="_blank">ResearchGate</a>
+  {% endif %}.
+</div>
+
+<div style="height: 1.0em;"></div>
+
+<!-- Group publications by category and then by year -->
+{% assign grouped = site.publications | group_by: "category" %}
+
+{% for group in grouped %}
+  {% assign sorted = group.items | sort: "year" | reverse %}
+  {% assign years = sorted | map: "year" | uniq %}
+
+  {% for y in years %}
+  <h2>{{ group.name | capitalize }}s ({{ y }})</h2>
+  <hr />
+    {% for post in sorted %}
+      {% if post.year == y %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
 
 
 
