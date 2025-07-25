@@ -23,7 +23,7 @@ I am currently working under the supervision of Prof. Xiaojing Liu, focusing on 
 **My research interests**
 
 <div style="text-align: justify">
-Materials and their fascinating application throughout energy transfer and system reliability are the prevalent theme of my research.
+Materials and their fascinating applications throughout energy transfer and system reliability are the prevalent theme of my research.
 </div>
 - CRUD Depositions and the Mitigation Strategies
 - Advanced Materials for Phase-Change Heat Transfer Enhancement
