@@ -35,6 +35,13 @@ Research Grants
   
 Honors and Awards
 ======
+* **2024** China National Scolarship (TOP 0.2%), Ministry of Education of the People's Republic of China
+* **2024** ENEN++ Nuclear Mobility Fund, European Nuclear Education Network
+* **2024** Best Paper Award, The 31st International Conference on Nuclear Engineering (ICONE-31)
+* **2023** SNERDI Scolarship, Shanghai Jiao Tong University
+* **2023** Outstanding Postgraduate Presentation Award, Shanghai Nuclear Society
+* **2022** China National Scolarship (TOP 0.2%), Ministry of Education of the People's Republic of China
+* **2022** Best Poster Award, The 23rd Pacific Basin Nuclear Conference (PBNC-23)
 
 <div style="height: 1.0em;"></div>
   
