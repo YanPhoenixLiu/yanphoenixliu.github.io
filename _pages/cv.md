@@ -49,4 +49,15 @@ Honors and Awards
   
 Services
 ======
-* Currently signed in to 43 different slack teams
+**Professional Organizations and Meetings**
+<div style="height: 0.5em;"></div>
+
+* **Section Co-chair** for The 31st International Conference on Nuclear Engineering (ICONE-31)
+
+<div style="height: 0.5em;"></div>
+
+**Society**
+<div style="height: 0.5em;"></div>
+
+* **Assistant Head Teacher** for Nuclear Engineering Class 2025
+
