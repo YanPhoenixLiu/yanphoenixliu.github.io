@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify">
+
 **Hi there, I am Yan (Phoenix) Liu 👋**
 
 I am a Ph.D. Candidate in School of Mechanical Engineering, Shanghai Jiao Tong University. I obtained my BS in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my PhD in Nuclear Science in 2026 also from Shanghai Jiao Tong University.
