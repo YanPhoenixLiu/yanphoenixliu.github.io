@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
+
 I gratefully acknowledge **Prof. Xiaojing Liu** from Shanghai Jiao Tong University for his generous, continuous and far-sighted supervision and support.
+
 </div>
 
 {% include base_path %}
