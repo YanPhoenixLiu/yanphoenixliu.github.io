@@ -15,7 +15,7 @@ I am a Ph.D. Candidate in School of Mechanical Engineering, Shanghai Jiao Tong U
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
-I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the thermal hydralics-netronics-material-chemistry coupling mechanism, developing high-fidelity multi-physics multi-scale coupling analysis frameworks， and establishing intelligent digital design analysis strategies.
+I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the thermal hydralics-netronics-material-chemistry coupling mechanism, developing high-fidelity multi-physics multi-scale coupling analysis frameworks and establishing intelligent digital design analysis strategies.
 </div>
 
 <div style="height: 2.0em;"></div>
