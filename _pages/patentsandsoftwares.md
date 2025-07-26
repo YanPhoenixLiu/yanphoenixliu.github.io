@@ -15,6 +15,8 @@ Patents
 ===
 **Authorized Chinese patents**
 1. CN115786891B. Reproduction method of corrosion product depositions in PWR core. (2025).
+2. CN115691708B. Neutron simulation method for CRUD axial linear cross-section variation of pressurized water reactor. (2023).
+3. CN114199064B. Wettability temperature-sensitive adaptive heat transfer surface for enhanced boiling heat transfer and its preparation method, enhanced boiling heat transfer method. (2022).
 
 <div style="height: 1.0em;"></div>
 
