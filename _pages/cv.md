@@ -30,11 +30,6 @@ Selected Five Publications
 
 <div style="height: 1.0em;"></div>
   
-Research Grants
-======
-
-<div style="height: 1.0em;"></div>
-  
 Honors and Awards
 ======
 * **2024** China National Scolarship (TOP 0.2%), Ministry of Education of the People's Republic of China
