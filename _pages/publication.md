@@ -45,7 +45,7 @@ redirect_from:
 2023
 ===
 **Jounals**
-1. **Yan Liu**, Xiaojing Liu\*, Sijia Su, Jiageng Wang & Hui He. Research on reproduction method of CRUD depositions based on anodic oxidation. Yuanzineng Kexue Jishu/Atomic Energy Science and Technology 44, 46-50 (2023). [[Link]](https://hdlgc.xml-journal.net/en/article/doi/10.13832/j.jnpe.2023.S1.0046)
+1. **Yan Liu**, Xiaojing Liu\*, Sijia Su, Jiageng Wang & Hui He. Research on reproduction method of CRUD depositions based on anodic oxidation. Hedongli Gongcheng/Nuclear Power Engineering S1, 46-50 (2023). [[Link]](https://hdlgc.xml-journal.net/en/article/doi/10.13832/j.jnpe.2023.S1.0046)
 <div style="height: 1.0em;"></div>
 
 2022
