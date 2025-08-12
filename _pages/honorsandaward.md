@@ -20,7 +20,7 @@ Awards
 
 Honors
 ===
-* **2024** China National Scolarship (TOP 0.2%), Ministry of Education of the People's Republic of China
+* **2024** China National Scholarship (TOP 0.2%), Ministry of Education of the People's Republic of China
 * **2024** ENEN++ Nuclear Mobility Fund, European Nuclear Education Network
 * **2023** SNERDI Scolarship, Shanghai Jiao Tong University
-* **2022** China National Scolarship (TOP 0.2%), Ministry of Education of the People's Republic of China
+* **2022** China National Scholarship (TOP 0.2%), Ministry of Education of the People's Republic of China
