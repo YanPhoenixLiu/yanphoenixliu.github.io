@@ -25,9 +25,9 @@ Principal Researcher
 1. National Natural Science Foundation of China. **No. U20B2011**. *The multi-physics coupled mechanism for the material - thermal hydraulics - neutronics behaviors of CRUD layers*. Project period: 2021.01-2024.12.
 
 </ol>
-
+<p style="padding-left: 2em; text-align: justify;">
    Role: Principal Researcher
-   
+</p>
 <p style="padding-left: 2em; text-align: justify;">
   
 (1) <strong>Corrosion Product Deposition</strong> - Established a non-radioactive Fe/Ni/Cr/Zn precursor system replicating in-core therma hydraulic–water chemistry conditions, and developed an ex-core accelerated corrosion product deposition technique, achieving a 98.2% characteristic parameter match between reproduced CRUD depositions and real CRUD depositions from nuclear power plants. Elucidated the mechanism of corrosion product concentration at the vapor–liquid interface and deposition on the cladding surface under subcooled boiling, and revealed the synergistic evolution of bubble growth, solute concentration, crystal growth, and particle deposition during CRUD formation, filling a key research gap in the nonlinear mechanisms of concentration, crystallization, and deposition of corrosion products.
@@ -51,6 +51,6 @@ Principal Researcher
 2. National Natural Science Foundation of China. **No. 12427811**. *Multi-physics coupled hardware-in-the-loop device for the corrosion-related unidentified deposit in PWR cores*. Project period: 2025.01-2029.12.
 
 </ol>
-
+<p style="padding-left: 2em; text-align: justify;">
    Role: Principal Researcher
-   
+</p>
