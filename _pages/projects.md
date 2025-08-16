@@ -19,8 +19,13 @@ I gratefully acknowledge <strong>Prof. Xiaojing Liu</strong> from Shanghai Jiao 
 
 Principal Researcher
 ===
+
+<ol start="1" style="margin-left: 1em; padding-left: 0.5em; text-align: justify;">
+
 1. National Natural Science Foundation of China. **No. U20B2011**. *The multi-physics coupled mechanism for the material - thermal hydraulics - neutronics behaviors of CRUD layers*. Project period: 2021.01-2024.12.
-   
+
+</ol>
+
    Role: Principal Researcher
    
 <p style="padding-left: 2em; text-align: justify;">
@@ -40,10 +45,12 @@ Principal Researcher
 </p>
 
 <div style="height: 1em;"></div>
-<ol start="2">
+
+<ol start="2" style="margin-left: 1em; padding-left: 0.5em; text-align: justify;">
   
 2. National Natural Science Foundation of China. **No. 12427811**. *Multi-physics coupled hardware-in-the-loop device for the corrosion-related unidentified deposit in PWR cores*. Project period: 2025.01-2029.12.
 
 </ol>
+
    Role: Principal Researcher
    
