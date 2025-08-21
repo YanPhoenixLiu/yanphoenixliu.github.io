@@ -44,14 +44,17 @@ Honors and Awards
   
 Services
 ======
-**Professional Organizations and Meetings**
+**Conference Organization**
 * **Section Co-chair** for The 31st International Conference on Nuclear Engineering (ICONE-31)
 
-**Society**
-* **Assistant Head Teacher** for Nuclear Engineering Class 2025
+**Professional Societies**
+* **Student Member** of Chinese Nuclear Society, CNS
+* **Student Member** of American Nuclear Society, ANS
+* **Student Member** of American Society of Mechanical Engineers, ASME
 
 **Reviewer**
 * *Nuclear Technology*
 * *ACS Omega*
 
-
+**Academic Advising**
+* **Assistant Faculty Advisor** for 2021 B.S. Nuclear Engineering Cohort, Shanghai Jiao Tong University
