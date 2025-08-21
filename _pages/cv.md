@@ -51,5 +51,7 @@ Services
 * **Assistant Head Teacher** for Nuclear Engineering Class 2025
 
 **Reviewer**
+* *Nuclear Technology*
 * *ACS Omega*
+
 
