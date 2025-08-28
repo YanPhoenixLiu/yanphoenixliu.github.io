@@ -17,7 +17,7 @@ redirect_from:
 2025
 ===
 **Jounals**
-1. **Yan Liu**, Jiajie Chen, Guolian Wang & Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Pressurized water reactor fuel corrosion-related unidentified deposit and its related safety issues – II. Corrosion product deposition and heat transfer modeling. *Annals of Nuclear Energy* 211, 110932 (2025). [[Link]](https://www.sciencedirect.com/science/article/pii/S0306454924005954)
+1. **Yan Liu**, Jiajie Chen, Guolian Wang, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Pressurized water reactor fuel corrosion-related unidentified deposit and its related safety issues – II. Corrosion product deposition and heat transfer modeling. *Annals of Nuclear Energy* 211, 110932 (2025). [[Link]](https://www.sciencedirect.com/science/article/pii/S0306454924005954)
 2. Guolian Wang, **Yan Liu**, Xiang Chai, Xiaojing Liu\* & Hui He\*. Heat transfer transition of fuel rod caused by CRUD growth. *International Journal of Thermal Science* (2025).
 3. Hui He\*, **Yan Liu**, Shiwei Wang, Tengfei Zhang, Xiang Chai & Xiaojing Liu\*. Review on corrosion-related unidentified deposit of pressurized water reactors. *Nuclear Engineering and Design* 441, 114095 (2025). [[Link]](https://www.sciencedirect.com/science/article/pii/S0029549325002729)
 4. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu, Tengfei Zhang\* & Sicheng Wang. High-resolution multi-physics analysis of CRUD effects in reactor assemblies. *PRX Energy* (2025).
