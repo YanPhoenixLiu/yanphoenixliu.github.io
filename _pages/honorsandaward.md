@@ -21,7 +21,7 @@ Awards
 **As Co-Participant**
 * **2025** Best Poster Award, The 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21)
 * **2025** Best Poster Award, The 32rd International Conference on Nuclear Engineering (ICONE-32)
-<div style="height: 1.0em;"></div>
+<div style="height: 2.0em;"></div>
 
 Honors
 ===
