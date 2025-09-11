@@ -13,10 +13,14 @@ redirect_from:
 
 Awards
 ===
-* **2025** Best Poster Award, The 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21)
+**As Lead**
 * **2024** Best Paper Award, The 31st International Conference on Nuclear Engineering (ICONE-31)
 * **2023** Outstanding Postgraduate Presentation Award, Shanghai Nuclear Society
 * **2022** Best Poster Award, The 23rd Pacific Basin Nuclear Conference (PBNC-23)
+
+**As Co-Participant**
+* **2025** Best Poster Award, The 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21)
+* **2025** Best Poster Award, The 32rd International Conference on Nuclear Engineering (ICONE-32)
 <div style="height: 1.0em;"></div>
 
 Honors
