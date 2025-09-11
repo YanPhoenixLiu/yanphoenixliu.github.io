@@ -19,8 +19,8 @@ Awards
 * **2022** Best Poster Award, The 23rd Pacific Basin Nuclear Conference (PBNC-23)
 
 **As Co-Participant**
-* **2025** Best Poster Award, The 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21)
-* **2025** Best Poster Award, The 32rd International Conference on Nuclear Engineering (ICONE-32)
+* **2025** Best Poster Award, The 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (Lead by Xinyu Li)
+* **2025** Best Poster Award, The 32rd International Conference on Nuclear Engineering (ICONE-32) (Lead by Chaoyuan Zhang)
 <div style="height: 2.0em;"></div>
 
 Honors
