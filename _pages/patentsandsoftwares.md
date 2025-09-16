@@ -38,9 +38,11 @@ ICBA incorporates a comprehensive physical and chemical database covering key PW
 </div>
 <div style="height: 1.0em;"></div>
 <div style="padding-left: 2.2em; text-align: justify;">
-To capture the influence of CRUD layers on reactor performance, ICBA features a dynamic porous media model that accounts for morphological evolution of CRUD deposits. This model considers the impact of evolving porosity and permeability on local flow resistance, heat transfer, and capillary-driven transport within the porous structure. Furthermore, the code resolves fine-scale solute distributions and evaluates their feedback on neutron physics, enabling detailed studies of localized multi-physics effects.
+To capture the influence of CRUD depositions on reactor performance, ICBA features a dynamic porous media model that accounts for morphological evolution of CRUD depositions. This model considers the impact of evolving porosity and permeability on local flow resistance, heat transfer, and capillary-driven transport within the porous structure. Furthermore, the code resolves fine-scale solute distributions and evaluates their feedback on neutron physics, enabling detailed studies of localized multi-physics effects.
 </div>
 <div style="height: 1.0em;"></div>
 <div style="padding-left: 2.2em; text-align: justify;">
 ICBA supports both steady-state and transient simulations, making it suitable for investigating CRUD growth, solute precipitation and dissolution, and the associated thermal-hydraulic and neutronic responses over reactor operation cycles. Its modular architecture also allows for integration with other system-level analysis tools, providing a versatile platform for advanced CRUD behavior research and mitigation strategy development.
 </div>
+
+
