@@ -11,6 +11,7 @@ redirect_from:
 
 <div style="height: 1.5em;"></div>
 
+<!--
 Patents
 ===
 **Authorized Chinese patents**
@@ -20,6 +21,7 @@ Patents
 4. **CN114199064B**. Wettability temperature-sensitive adaptive heat transfer surface for enhanced boiling heat transfer and its preparation method, enhanced boiling heat transfer method [ 强化沸腾传热的浸润性温敏自适应换热表面及其制备方法、强化沸腾传热方法 ]. Rank 5. (2022).
 
 <div style="height: 1.0em;"></div>
+-->
 
 Softwares
 ===
