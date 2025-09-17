@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="wordwrap">My publications can also be found on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">My publications can also be found on my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.</div>
 
 
 {% include base_path %}
