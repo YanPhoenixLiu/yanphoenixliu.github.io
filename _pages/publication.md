@@ -38,9 +38,9 @@ Under Review
 3. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu, Tengfei Zhang\* & Sicheng Wang. High-resolution multi-physics analysis of CRUD effects in reactor assemblies. *PRX Energy* 4(3), 033016 (2025). [[Link]](https://link.aps.org/doi/10.1103/nqhj-dppn)
    
 **Conferences**
-1. Xinyu Li, **Yan Liu**, Xiang Chai & Xiaojing Liu\*. Dynamic simulation and performance analysis of a nuclear-solar energy system with thermal energy storage. in Proceeding of 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
-2. Longchang Tang, Wei Xu, **Yan Liu** & Xiaojing Liu\*. Experimental study on the influence of epoxy patterns of bi-conductive surfaces on pool boiling. in Proceeding of 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
-3. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu & Tengfei Zhang\*. High-fidelity CRUD coupling simulation for PWR power shift. in Proceeding of The 32nd International Conference on Nuclear Engineering (ICONE-32) (Springer Nature, Weihai, China, 2025).
+1. Xinyu Li, **Yan Liu**, Xiang Chai & Xiaojing Liu\*. Dynamic simulation and performance analysis of a nuclear-solar energy system with thermal energy storage. in Proceeding of the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
+2. Longchang Tang, Wei Xu, **Yan Liu** & Xiaojing Liu\*. Experimental study on the influence of epoxy patterns of bi-conductive surfaces on pool boiling. in Proceeding of the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
+3. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu & Tengfei Zhang\*. High-fidelity CRUD coupling simulation for PWR power shift. in Proceeding of the 32nd International Conference on Nuclear Engineering (ICONE-32) (Springer Nature, Weihai, China, 2025).
 
 <div style="height: 1.0em;"></div>
 
@@ -55,7 +55,7 @@ Under Review
 6. **Yan Liu**, Xiaojing Liu\*, Hui He & Tengfei Zhang. Thermodynamics and kinetics of zinc addition in pressurized water reactor primary circuit. *Yuanzineng Kexue Jishu/Atomic Energy Science and Technology* 58, 961–969 (2024). [[Link]](https://yznkxjs.xml-journal.net/en/article/id/a4fc5db1-8bc5-4acf-88b2-eaa9ddf59182)
    
 **Conferences**
-1. **Yan Liu**, Xiaojing Liu\*, Hui He, Tengfei Zhang & Xiang Chai. Study on thermal conductivity model for porous PWR CRUD depositions. in Proceeding of The 31st International Conference on Nuclear Engineering (ICONE-31) (American Society of Mechanical Engineers, Prague, Czech Republic, 2024). [[Link]](https://dx.doi.org/10.1115/ICONE31-134562)
+1. **Yan Liu**, Xiaojing Liu\*, Hui He, Tengfei Zhang & Xiang Chai. Study on thermal conductivity model for porous PWR CRUD depositions. in Proceeding of the 31st International Conference on Nuclear Engineering (ICONE-31) (American Society of Mechanical Engineers, Prague, Czech Republic, 2024). [[Link]](https://dx.doi.org/10.1115/ICONE31-134562)
 
 <div style="height: 1.0em;"></div>
 
