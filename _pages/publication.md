@@ -14,6 +14,15 @@ redirect_from:
 
 <div style="height: 1.5em;"></div>
 
+Under Review
+===
+**Jounals**
+1. **Yan Liu**, Xinyu Li, Chuandong Liu, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Self-regulating hierarchical porous surfaces for stable boiling and fouling-resistant liquid transport.
+2. Xinyu Li, **Yan Liu**, Hongtao Bi, Xiang Chai\* & Xiaojing Liu\*. Accelerating global low-carbon energy transitions with regionally optimized nuclear–renewable microgrids.
+3. Chuandong Liu, **Yan Liu**, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Critical heat flux on boiling induced self-assembly surfaces.
+
+<div style="height: 1.0em;"></div>
+
 2026
 ===
 **Jounals**
