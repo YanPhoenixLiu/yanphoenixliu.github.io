@@ -32,6 +32,7 @@ Selected Five Publications
   
 Honors and Awards
 ======
+* **2025** China National Scholarship (TOP 0.2%), Ministry of Education of the People's Republic of China
 * **2024** China National Scholarship (TOP 0.2%), Ministry of Education of the People's Republic of China
 * **2024** ENEN++ Nuclear Mobility Fund, European Nuclear Education Network
 * **2024** Best Paper Award, The 31st International Conference on Nuclear Engineering (ICONE-31)
