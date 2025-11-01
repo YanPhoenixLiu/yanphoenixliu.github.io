@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="height: 1.5em;"></div>
 
-**Hi there, I am Yan (Phoenix) Liu 👋**
+**Hi there, I am Yan (Phoenix) Liu 刘延👋**
 
 <div style="text-align: justify">
 I am a PhD Candidate in School of Mechanical Engineering, Shanghai Jiao Tong University. I obtained my BS in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my PhD in Nuclear Science in 2026 also from Shanghai Jiao Tong University.
