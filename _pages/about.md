@@ -17,6 +17,10 @@ I am a PhD Candidate in School of Mechanical Engineering, Shanghai Jiao Tong Uni
 <div style="text-align: justify">
 I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the thermal hydralics-netronics-material-chemistry coupling mechanism, developing high-fidelity multi-physics multi-scale coupling analysis frameworks and establishing intelligent digital design analysis strategies.
 </div>
+<div style="height: 1.0em;"></div>
+<div style="text-align: justify">
+My Ph.D. dissertation focuses on Corrosion-Related Unidentified Deposits (CRUD depositions), exploring the deposition process ofcorrosion products at vapor-liquid interface, developing time-space thermodynamic kinetic model of boron hideout, and revealing cross-scale multi-physical process coupling mechanism of thermal hydraulics-neutronics-materials-chemisrty.
+</div>
 
 <div style="height: 2.0em;"></div>
 
