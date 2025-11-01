@@ -19,7 +19,7 @@ I am currently working under the supervision of Prof. Xiaojing Liu, focusing on 
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
-My Ph.D. dissertation focuses on Corrosion-Related Unidentified Deposits (CRUD depositions), exploring the deposition process ofcorrosion products at vapor-liquid interface, developing time-space thermodynamic kinetic model of boron hideout, and revealing cross-scale multi-physical process coupling mechanism of thermal hydraulics-neutronics-materials-chemisrty.
+My Ph.D. dissertation focuses on Corrosion-Related Unidentified Deposits (CRUD depositions), exploring the deposition process ofcorrosion products at vapor-liquid interface, developing time-space thermodynamic kinetic model of boron hideout, and revealing cross-scale multi-physical process coupling mechanism of thermal hydraulics-neutronics-materials-chemistry.
 </div>
 
 <div style="height: 2.0em;"></div>
