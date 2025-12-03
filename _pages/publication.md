@@ -33,6 +33,7 @@ redirect_from:
 1. Xinyu Li, **Yan Liu**, Xiang Chai & Xiaojing Liu\*. Dynamic simulation and performance analysis of a nuclear-solar energy system with thermal energy storage. in Proceeding of the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
 2. Longchang Tang, Wei Xu, **Yan Liu** & Xiaojing Liu\*. Experimental study on the influence of epoxy patterns of bi-conductive surfaces on pool boiling. in Proceeding of the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
 3. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu & Tengfei Zhang\*. High-fidelity CRUD coupling simulation for PWR power shift. in Proceeding of the 32nd International Conference on Nuclear Engineering (ICONE-32) (Springer Nature, Weihai, China, 2025).
+4. Chuandong Liu, Ziyu He, **Yan Liu**, Hui He & Xiaojing Liu\*. Study on deposition behavior of corrosion products under zinc injection conditions. in Proceedings the 5th Annual Academic Meeting of the Nuclear Reactor Thermal-Hydraulics Division (Chinese Nuclear Society, Jilin, China, 2025).
 
 <div style="height: 1.0em;"></div>
 
@@ -48,6 +49,7 @@ redirect_from:
    
 **Conferences**
 1. **Yan Liu**, Xiaojing Liu\*, Hui He, Tengfei Zhang & Xiang Chai. Study on thermal conductivity model for porous PWR CRUD depositions. in Proceeding of the 31st International Conference on Nuclear Engineering (ICONE-31) (American Society of Mechanical Engineers, Prague, Czech Republic, 2024). [[Link]](https://dx.doi.org/10.1115/ICONE31-134562)
+2. **Yan Liu**, Miaoxin Ma, Hui He, Tengfei Zhang & Xiaojing Liu\*. Effect of enriched B-10 boric acid water chemistry on CRUD-induced power shift in PWR. in Proceeding of the 1st Annual Academic Meeting of the Research and Advanced Reactors Division (Chinese Nuclear Society, Huizhou, China, 2024).
 
 <div style="height: 1.0em;"></div>
 
@@ -55,6 +57,10 @@ redirect_from:
 ===
 **Jounals**
 1. **Yan Liu**, Xiaojing Liu\*, Sijia Su, Jiageng Wang & Hui He. Research on reproduction method of CRUD depositions based on anodic oxidation. *Hedongli Gongcheng/Nuclear Power Engineering* S1, 46-50 (2023). [[Link]](https://hdlgc.xml-journal.net/en/article/doi/10.13832/j.jnpe.2023.S1.0046)
+
+**Conferences**
+1. **Yan Liu**, Xiaojing Liu\*, Tengfei Zhang & Hui He. Research on mechanism of CRUD-induced power shift phenomenon in PWR core. in Proceeding of the Symposium on Special Materials for Nuclear Industry (China National Nuclear Corporation, Beijing, China, 2023).
+
 <div style="height: 1.0em;"></div>
 
 2022
@@ -64,6 +70,13 @@ redirect_from:
    
 **Conferences**
 1. **Yan Liu**, Xiaojing Liu\*, Sijia Du, Jiageng Wang & Hui He. Multi-physics coupling model for thermal hydraulics and solute transport in CRUD deposits. in Proceedings of the 23rd Pacific Basin Nuclear Conference (PBNC-23) (Springer Nature, Beijing & Chengdu, China, 2022). [[Link]](https://link.springer.com/chapter/10.1007/978-981-99-1023-6_35)
+
+<div style="height: 1.0em;"></div>
+
+2021
+===   
+**Conferences**
+1. **Yan Liu**, Xiaojing Liu\*, Sijia Du, Jiageng Wang, Tengfei Zhang & Hui He. Prediction of CIPS in PWR based on OpenMC. in Proceedings the 1st Annual Academic Meeting of the Nuclear Reactor Thermal-Hydraulics Division (Chinese Nuclear Society, Chongqing, China, 2021).
 
 <div style="height: 1.0em;"></div>
 
