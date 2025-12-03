@@ -63,7 +63,7 @@ redirect_from:
 1. **Yan Liu**, Xiaojing Liu\* & Hui He. Two-phase boiling heat and mass transfer characteristic within PWR CRUD deposition. *Yuanzineng Kexue Jishu/Atomic Energy Science and Technology* 56, 1551-1558 (2022). [[Link]](https://yznkxjs.xml-journal.net/en/article/doi/10.7538/yzk.2022.youxian.0391)
    
 **Conferences**
-1. **Yan Liu**, Xiaojing Liu\*, Sijia Su, Jiageng Wang & Hui He. Multi-physics coupling model for thermal hydraulics and solute transport in CRUD deposits. in Proceedings of the 23rd Pacific Basin Nuclear Conference (PBNC-23) (Springer Nature, Beijing & Chengdu, China, 2022). [[Link]](https://link.springer.com/chapter/10.1007/978-981-99-1023-6_35)
+1. **Yan Liu**, Xiaojing Liu\*, Sijia Du, Jiageng Wang & Hui He. Multi-physics coupling model for thermal hydraulics and solute transport in CRUD deposits. in Proceedings of the 23rd Pacific Basin Nuclear Conference (PBNC-23) (Springer Nature, Beijing & Chengdu, China, 2022). [[Link]](https://link.springer.com/chapter/10.1007/978-981-99-1023-6_35)
 
 <div style="height: 1.0em;"></div>
 
