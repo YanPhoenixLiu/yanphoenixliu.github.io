@@ -18,6 +18,7 @@ redirect_from:
 ===
 **Jounals**
 1. Guolian Wang, **Yan Liu**, Xiaojing Liu\*, Xiang Chai, Tengfei Zhang & Hui He\*. Heat transfer transition of fuel rod caused by CRUD growth. *International Journal of Thermal Science* 220A, 110268 (2026). [[Link]](https://www.sciencedirect.com/science/article/pii/S1290072925005915)
+2. Chuandong Liu, **Yan Liu**, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Critical heat flux on boiling induced self-assembly surfaces. *International Journal of Heat and Mass Transfer* (2026).
 
 <div style="height: 1.0em;"></div>
 
@@ -73,6 +74,5 @@ Under Review
 2. **Yan Liu**\*, Tengfei Zhang, Hui He\* & Xiaojing Liu\*. ICBA: High-fidelity multi-physics model for CRUD boron hideout in pressurized water reactors.
 3. **Yan Liu**, Longchang Tang, Houde Song, TengfeiZhang, Hui He\* & Xiaojing Liu\*. Data-driven prediction and uncertainty quantification of critical heat flux of porous PWR CRUD depositions.
 4. Xinyu Li, **Yan Liu**, Hongtao Bi, Xiang Chai\* & Xiaojing Liu\*. Accelerating global low-carbon energy transitions with regionally optimized nuclear–renewable microgrids.
-5. Chuandong Liu, **Yan Liu**, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Critical heat flux on boiling induced self-assembly surfaces.
 
 <div style="height: 1.0em;"></div>
