@@ -17,8 +17,8 @@ redirect_from:
 2026
 ===
 **Jounals**
-1. Guolian Wang, **Yan Liu**, Xiaojing Liu\*, Xiang Chai, Tengfei Zhang & Hui He\*. Heat transfer transition of fuel rod caused by CRUD growth. *International Journal of Thermal Science* 220A, 110268 (2026). [[Link]](https://www.sciencedirect.com/science/article/pii/S1290072925005915)
-2. Chuandong Liu, **Yan Liu**, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Critical heat flux on boiling induced self-assembly surfaces. *International Journal of Heat and Mass Transfer* (2026).
+1. Chuandong Liu, **Yan Liu**, Hui He\*, Tengfei Zhang & Xiaojing Liu\*. Critical heat flux on boiling induced self-assembly surfaces. *International Journal of Heat and Mass Transfer* 257, 128230 (2026). [[Link]](https://www.sciencedirect.com/science/article/pii/S0017931025015649)
+2. Guolian Wang, **Yan Liu**, Xiaojing Liu\*, Xiang Chai, Tengfei Zhang & Hui He\*. Heat transfer transition of fuel rod caused by CRUD growth. *International Journal of Thermal Science* 220A, 110268 (2026). [[Link]](https://www.sciencedirect.com/science/article/pii/S1290072925005915)
 
 <div style="height: 1.0em;"></div>
 
