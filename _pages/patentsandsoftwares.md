@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Patents and Softwares"
+title: "Softwares"
 permalink: /patentsandsoftwares/
 author_profile: true
 redirect_from:
