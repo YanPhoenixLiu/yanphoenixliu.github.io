@@ -18,7 +18,7 @@ redirect_from:
 
 <div style="height: 1.0em;"></div>
 
-代表作
+论文代表作
 ======
 1. **Yan Liu**, Xiaojing Liu\*, Tengfei Zhang & Hui He. Understanding flow fouling deposition and solute hideout–return behavior at the phase change interface. ACS Applied Materials & Interfaces 16, 4719–4728 (2024).
 1. **Yan Liu**, Xiaojing Liu\*, Hui He, Tengfei Zhang & Xiang Chai. Synthesizing nuclear power plant fouling with fractal characteristics enables an in-depth study of concerned nuclear safety issues. iScience 27, 108789 (2024).
