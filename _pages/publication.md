@@ -32,7 +32,7 @@ redirect_from:
 **Conferences**
 1. Xinyu Li, **Yan Liu**, Xiang Chai & Xiaojing Liu\*. Dynamic simulation and performance analysis of a nuclear-solar energy system with thermal energy storage. in Proceeding of the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
 2. Longchang Tang, Wei Xu, **Yan Liu** & Xiaojing Liu\*. Experimental study on the influence of epoxy patterns of bi-conductive surfaces on pool boiling. in Proceeding of the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21) (American Nuclear Society, Busan, Korea, 2025).
-3. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu & Tengfei Zhang\*. High-fidelity CRUD coupling simulation for PWR power shift. in Proceeding of the 32nd International Conference on Nuclear Engineering (ICONE-32) (Springer Nature, Weihai, China, 2025).
+3. Chaoyuan Zhang, Han Yin, **Yan Liu**, Hui He, Xiaojing Liu & Tengfei Zhang\*. High-fidelity CRUD coupling simulation for PWR power shift. in Proceeding of the 32nd International Conference on Nuclear Engineering (ICONE-32) (Springer Nature, Weihai, China, 2025). [[Link]](https://link.springer.com/chapter/10.1007/978-981-95-3449-4_27)
 4. Chuandong Liu, Ziyu He, **Yan Liu**, Hui He & Xiaojing Liu\*. Study on deposition behavior of corrosion products under zinc injection conditions. in Proceedings the 5th Annual Meeting of the Nuclear Reactor Thermal-Hydraulics Division (Chinese Nuclear Society, Jilin, China, 2025).
 
 <div style="height: 1.0em;"></div>
