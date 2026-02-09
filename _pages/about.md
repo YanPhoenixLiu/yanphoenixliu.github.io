@@ -11,15 +11,11 @@ redirect_from:
 **Hi there, I am Yan (Phoenix) Liu 刘延👋**
 
 <div style="text-align: justify">
-I am a Ph.D. Candidate in School of Mechanical Engineering at Shanghai Jiao Tong University. I obtained my B.S. in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my Ph.D. in Nuclear Science and Technology in 2026 also from Shanghai Jiao Tong University.
+I have just finished my Ph.D. defense at Shanghai Jiao Tong University. I obtained my B.S. in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my Ph.D. in Nuclear Science very soon also from Shanghai Jiao Tong University. My Ph.D. dissertation focuses on heat and mass transfer at the solid-liquid-gas interface via both experiment and modeling.
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
-I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the thermal hydralics-netronics-material-chemistry coupling mechanism, developing high-fidelity multi-physics multi-scale coupling analysis frameworks and establishing intelligent digital design analysis strategies.
-</div>
-<div style="height: 1.0em;"></div>
-<div style="text-align: justify">
-My Ph.D. dissertation focuses on Corrosion-Related Unidentified Deposits (CRUD depositions), exploring the deposition process ofcorrosion products at vapor-liquid interface, developing time-space thermodynamic kinetic model of boron hideout, and revealing cross-scale multi-physical process coupling mechanism of thermal hydraulics-neutronics-materials-chemistry.
+I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the netronics-thermal hydralics-mechanics-materials coupling mechanism, developing high-fidelity multi-physics multi-scale coupling analysis frameworks and establishing intelligent digital design analysis strategies.
 </div>
 
 <div style="height: 2.0em;"></div>
