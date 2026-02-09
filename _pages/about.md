@@ -11,7 +11,11 @@ redirect_from:
 **Hi there, I am Yan (Phoenix) Liu 刘延👋**
 
 <div style="text-align: justify">
-I have just finished my Ph.D. defense at Shanghai Jiao Tong University. I obtained my B.S. in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my Ph.D. in Nuclear Science very soon also from Shanghai Jiao Tong University. My Ph.D. dissertation focuses on heat and mass transfer at the solid-liquid-gas interface via both experiment and modeling.
+I have just finished my Ph.D. defense at Shanghai Jiao Tong University! My Ph.D. dissertation focuses on heat and mass transfer at the solid-liquid-gas interface via both experiment and modeling.
+</div>
+<div style="height: 1.0em;"></div>
+<div style="text-align: justify">
+I obtained my B.S. in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my Ph.D. in Nuclear Science very soon also from Shanghai Jiao Tong University. 
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
