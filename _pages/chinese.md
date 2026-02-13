@@ -1,4 +1,4 @@
-<img width="186" height="30" alt="image" src="https://github.com/user-attachments/assets/fab1732a-92fd-4d36-a4c6-3b866d132444" />---
+---
 layout: archive
 title: "中文简历"
 permalink: /chinese/
