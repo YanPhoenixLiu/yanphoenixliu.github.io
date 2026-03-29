@@ -11,17 +11,11 @@ redirect_from:
 **Hi there, I am Yan (Phoenix) Liu 刘延👋**
 
 <div style="text-align: justify">
-I have just finished my Ph.D. defense at Shanghai Jiao Tong University! My Ph.D. dissertation focuses on heat and mass transfer at the solid-liquid-gas interface via both experiment and modeling.
+I am a Postdoctoral Researcher at Shanghai Jiao Tong University (China), and a member of the research group led by Prof. Xiaojing Liu (刘晓晶). Prior to this, I earned both mu B.S. and Ph.D. degrees from Shanghai Jiao Tong University. My Ph.D. reseach on heat and mass transfer at the solid-liquid-gas interface was supervised by Prof. Xiaojing Liu (刘晓晶).
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
-I obtained my B.S. in Nuclear Engineering in 2021 from Shanghai Jiao Tong University and look forward to my Ph.D. in Nuclear Science very soon also from Shanghai Jiao Tong University. 
-</div>
-<div style="height: 1.0em;"></div>
-<div style="text-align: justify">
-I am currently working under the supervision of Prof. Xiaojing Liu, focusing on advanced nuclear reactors, exploring the netronics-thermal hydralics-mechanics-materials coupling mechanism, developing high-fidelity multi-physics multi-scale coupling analysis frameworks and establishing intelligent digital design analysis strategies.
-</div>
-
+My current research focuses on the intersection of heat transfer, mass transfer, chemistry, and materials science, with particular emphasis on the development and application of advanced interfacial materials for energy systems.
 <div style="height: 2.0em;"></div>
 
 **My research interests**
