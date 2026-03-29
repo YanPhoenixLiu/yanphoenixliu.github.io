@@ -16,7 +16,9 @@ I am a Postdoctoral Researcher at Shanghai Jiao Tong University (China), and a m
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
 My current research focuses on the intersection of heat transfer, mass transfer, chemistry, and materials science, with particular emphasis on the development and application of advanced interfacial materials for energy systems.
+</div>
 <div style="height: 2.0em;"></div>
+
 
 **My research interests**
 
