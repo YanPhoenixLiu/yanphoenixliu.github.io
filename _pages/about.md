@@ -11,11 +11,11 @@ redirect_from:
 **Hi there, I am Yan (Phoenix) Liu 刘延👋**
 
 <div style="text-align: justify">
-I am a Postdoctoral Researcher at Shanghai Jiao Tong University (China), and a member of the research group led by Prof. Xiaojing Liu (刘晓晶). Prior to this, I earned both mu B.S. and Ph.D. degrees from Shanghai Jiao Tong University. My Ph.D. reseach on heat and mass transfer at the solid-liquid-gas interface was supervised by Prof. Xiaojing Liu (刘晓晶).
+I am currently a Postdoctoral Researcher at Shanghai Jiao Tong University (China), working in the research group led by Prof. Xiaojing Liu (刘晓晶). I received both my B.S. and Ph.D. degrees from Shanghai Jiao Tong University, where my doctoral research on heat and mass transfer at solid–liquid–gas interfaces was also supervised by Prof. Xiaojing Liu.
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
-My current research focuses on the intersection of heat transfer, mass transfer, chemistry, and materials science, with particular emphasis on the development and application of advanced interfacial materials for energy systems.
+My research lies at the intersection of heat transfer, mass transfer, chemistry, and materials science, with a particular focus on interfacial phenomena and the development of advanced materials for energy systems.
 </div>
 <div style="height: 2.0em;"></div>
 
@@ -25,8 +25,9 @@ My current research focuses on the intersection of heat transfer, mass transfer,
 <div style="text-align: justify">
 Materials and their fascinating applications for energy utilization and system reliability are the prevalent theme of my research.
 </div>
-- Interfacial Micro/Nanoscopic Effects
+- Interfacial Heat and Mass Transfer
 - Novel Interface Characterization Methods
-- Advanced Quantum Materials for Energy
+- Multi-Physics Coupling in Energy Systems
+- Advanced Interfacial Materials
 - AI for Energy
 
