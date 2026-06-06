@@ -56,4 +56,4 @@ Services
 * *ACS Omega*
 
 **Academic Advising**
-* **Assistant Faculty Advisor** for 2021 B.S. Nuclear Engineering Cohort, Shanghai Jiao Tong University
+* **Assistant Faculty Advisor** for Nuclear Engineering Class of 2025, Shanghai Jiao Tong University
