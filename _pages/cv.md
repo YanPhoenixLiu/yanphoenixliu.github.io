@@ -20,6 +20,12 @@ Education
 
 <div style="height: 1.0em;"></div>
 
+Career
+======
+* Postdoctoral Fellow, Shanghai Jiao Tong University, 2026-Present
+
+<div style="height: 1.0em;"></div>
+
 Selected Five Publications
 ======
 1. **Yan Liu**, Xiaojing Liu\*, Tengfei Zhang & Hui He. Understanding flow fouling deposition and solute hideout–return behavior at the phase change interface. ACS Applied Materials & Interfaces 16, 4719–4728 (2024).
@@ -32,9 +38,8 @@ Selected Five Publications
   
 Honors and Awards
 ======
-* **2026** Doctoral Graduate with Distinction: Graduate Excellence Award of Shanghai, Shanghai Municipal Education Commission
-* **2025** China National Scholarship (TOP 0.2%), Ministry of Education of the People's Republic of China
-* **2024** China National Scholarship (TOP 0.2%), Ministry of Education of the People's Republic of China
+* **2026** First Prize of Electric Power Science and Technology Award, Chinese Society for Electrical Engineering
+* **2025** Best Poster Award, The 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21)
 * **2024** ENEN++ Nuclear Mobility Fund, European Nuclear Education Network
 * **2024** Best Paper Award, The 31st International Conference on Nuclear Engineering (ICONE-31)
 * **2022** Best Poster Award, The 23rd Pacific Basin Nuclear Conference (PBNC-23)
@@ -47,9 +52,9 @@ Services
 * **Section Co-chair** for The 31st International Conference on Nuclear Engineering (ICONE-31)
 
 **Professional Societies**
-* **Student Member** of Chinese Nuclear Society, CNS
-* **Student Member** of American Nuclear Society, ANS
-* **Student Member** of American Society of Mechanical Engineers, ASME
+* **Member** of Chinese Nuclear Society, CNS
+* **Member** of American Nuclear Society, ANS
+* **Member** of American Society of Mechanical Engineers, ASME
 
 **Reviewer**
 * *Nuclear Technology*
