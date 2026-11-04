@@ -11,16 +11,14 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Sep. 2026</div>
     <div class="news-text">
-      I started my postdoctoral research at
-      <strong>Shanghai Jiao Tong University</strong>.
+      I started my postdoctoral research at Shanghai Jiao Tong University.
     </div>
   </div>
 
   <div class="news-card">
     <div class="news-date">Mar. 2026</div>
     <div class="news-text">
-      I received my Ph.D. from
-      <strong>Shanghai Jiao Tong University</strong>.
+      I received my Ph.D. from Shanghai Jiao Tong University.
     </div>
   </div>
 
