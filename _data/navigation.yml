@@ -26,8 +26,12 @@ main:
   - title: "Awards"
     url: /honorsandaward/
 
-  - title: "中文"
-    url: /chinese/
+  #- title: "中文"
+  #  url: /chinese/
+
+  - title: "News!"
+    url: /news/
+
 
   #- title: "Education"
   #  url: /education/
