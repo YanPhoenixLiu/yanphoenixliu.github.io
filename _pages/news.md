@@ -36,15 +36,6 @@ author_profile: true
   <div style="height: 0.5em;"></div>
 
   <div class="news-card">
-    <div class="news-date">Feb. 2026</div>
-    <div class="news-text">
-      I complete my Ph.D. defense at Shanghai Jiao Tong University.
-    </div>
-  </div>
-
-  <div style="height: 0.5em;"></div>
-
-  <div class="news-card">
     <div class="news-date">Jan. 2026</div>
     <div class="news-text">
       I am honored with the title of <strong>Shanghai Outstanding Graduate</strong>.
