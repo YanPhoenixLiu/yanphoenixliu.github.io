@@ -11,7 +11,12 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Oct. 2026</div>
     <div class="news-text">
-      Our work is awarded the <strong>First Prize of the China Electric Power Science and Technology Progress Award</strong>!
+      <p>
+        Our work has been awarded the <strong>First Prize of the China Electric Power Science and Technology Progress Award</strong>!
+      </p>
+      <p>
+        Grateful to Prof. Xiaojing Liu and all collaborators for their contributions to this achievement!
+      </p>
     </div>
   </div>
   
