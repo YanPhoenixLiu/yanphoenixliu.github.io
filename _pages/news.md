@@ -11,8 +11,7 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Oct. 2026</div>
     <div class="news-text">
-      Our research is awarded the
-      <strong>First Prize of the China Electric Power Science and Technology Progress Award</strong>!
+      Our work is awarded the <strong>First Prize of the China Electric Power Science and Technology Progress Award</strong>!
     </div>
   </div>
   
@@ -75,7 +74,7 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Sep. 2025</div>
     <div class="news-text">
-      Our work receive the <strong>Best Poster Award</strong> at the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21).
+      Our work receive the <strong>Best Poster Award</strong> at the 21st International Topical Meeting on Nuclear Reactor Thermal Hydraulics (NURETH-21)!
       Congratulations to <strong>Xinyu Li</strong>, the first author!
     </div>
   </div>
@@ -85,7 +84,7 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Jun. 2025</div>
     <div class="news-text">
-      Our work received the <strong>Best Poster Award</strong> at the 32nd International Conference on Nuclear Engineering (ICONE-32).
+      Our work received the <strong>Best Poster Award</strong> at the 32nd International Conference on Nuclear Engineering (ICONE-32)!
       Congratulations to <strong>Chaoyuan Zhang</strong>, the first author!
     </div>
   </div>
@@ -113,7 +112,7 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Aug. 2024</div>
     <div class="news-text">
-      I receive the <strong>Best Paper Award</strong> at the 31st International Conference on Nuclear Engineering (ICONE-31).
+      I receive the <strong>Best Paper Award</strong> at the 31st International Conference on Nuclear Engineering (ICONE-31)!
     </div>
   </div>
 
@@ -131,7 +130,7 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Nov. 2022</div>
     <div class="news-text">
-      Our work receive the <strong>Best Poster Award</strong> at the 23rd Pacific Basin Nuclear Conference (PBNC2022).
+      Our work receive the <strong>Best Poster Award</strong> at the 23rd Pacific Basin Nuclear Conference (PBNC2022)!
     </div>
   </div>
 
