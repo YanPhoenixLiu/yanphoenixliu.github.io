@@ -16,7 +16,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Nuclear Science, Shanghai Jiao Tong University, 2021-2026
-* B.S. in Nuclear Engineering, Shanghai Jiao Tong University, 2017-2021
+* B.Eng. in Nuclear Engineering, Shanghai Jiao Tong University, 2017-2021
 
 <div style="height: 1.0em;"></div>
 
