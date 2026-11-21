@@ -11,7 +11,7 @@ redirect_from:
 **Hi there, I am Yan (Phoenix) Liu 刘延👋**
 
 <div style="text-align: justify">
-I am currently a Postdoctoral Researcher at Shanghai Jiao Tong University (China), working in the research group led by Prof. Xiaojing Liu (刘晓晶). I received both my B.S. and Ph.D. degrees from Shanghai Jiao Tong University, where my doctoral research on heat and mass transfer at solid–liquid–gas interfaces was also supervised by Prof. Xiaojing Liu.
+I am currently a Postdoctoral Researcher at Shanghai Jiao Tong University (China), mentored by Prof. Zhen Huang (黄震) and Prof. Xiaojing Liu (刘晓晶). I received both my B.Eng. and Ph.D. degrees from Shanghai Jiao Tong University, where my doctoral research on heat and mass transfer at solid–liquid–gas interfaces was also supervised by Prof. Xiaojing Liu (刘晓晶).
 </div>
 <div style="height: 1.0em;"></div>
 <div style="text-align: justify">
