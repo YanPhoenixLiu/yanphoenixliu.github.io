@@ -22,7 +22,7 @@ Education
 
 Career
 ======
-* Postdoctoral Fellow, Shanghai Jiao Tong University, 2026-Present
+* Postdoctoral Fellow in Mechanical Engineering, Shanghai Jiao Tong University, 2026-Present
 
 <div style="height: 1.0em;"></div>
 
