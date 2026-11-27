@@ -17,8 +17,8 @@ main:
   - title: "Talks"
     url: /presentations/  
 
-  - title: "Softwares"
-    url: /patentsandsoftwares/
+  #- title: "Softwares"
+  #  url: /patentsandsoftwares/
   
   - title: "Projects"
     url: /projects/
@@ -32,11 +32,13 @@ main:
   - title: "News!"
     url: /news/
 
+  - title: "Sharing"
+    url: "https://personal-sharing.pages.dev/"
+
 
   #- title: "Education"
   #  url: /education/
 
-  
 
   #- title: "Teaching"
   #  url: /teaching/    
