@@ -9,6 +9,19 @@ author_profile: true
 <div class="news-list">
 
   <div class="news-card">
+    <div class="news-date">Nov. 2026</div>
+    <div class="news-text">
+      Our research published in
+      <a href="https://doi.org/10.1103/nqhj-dppn" target="_blank" rel="noopener noreferrer"><strong>PRX Energy</strong></a>
+      is cited as one of the principal references in the English Wikipedia article on
+      <a href="https://en.wikipedia.org/wiki/Crud_(radioactive_waste)" target="_blank" rel="noopener noreferrer"><strong>CRUD</strong></a>
+      in nuclear reactors.
+    </div>
+  </div>
+
+  <div style="height: 0.5em;"></div>
+  
+  <div class="news-card">
     <div class="news-date">Oct. 2026</div>
     <div class="news-text">
       Our work has been awarded the <strong>First Prize of the China Electric Power Science and Technology Progress Award</strong>!
