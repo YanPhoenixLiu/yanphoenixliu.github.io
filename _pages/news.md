@@ -12,10 +12,9 @@ author_profile: true
     <div class="news-date">Nov. 2026</div>
     <div class="news-text">
       Our research published in
-      <a href="https://doi.org/10.1103/nqhj-dppn" target="_blank" rel="noopener noreferrer"><strong>PRX Energy</strong></a>
+      <a href="https://doi.org/10.1103/nqhj-dppn" target="_blank" rel="noopener noreferrer" style="color: inherit;"><strong>PRX Energy</strong></a>
       is cited as one of the principal references in the English Wikipedia article on
-      <a href="https://en.wikipedia.org/wiki/Crud_(radioactive_waste)" target="_blank" rel="noopener noreferrer"><strong>CRUD</strong></a>
-      in nuclear reactors.
+      <a href="https://en.wikipedia.org/wiki/Crud_(radioactive_waste)" target="_blank" rel="noopener noreferrer" style="color: inherit;"><strong>CRUD</strong></a>.
     </div>
   </div>
 
