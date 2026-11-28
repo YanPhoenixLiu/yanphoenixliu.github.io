@@ -12,9 +12,9 @@ author_profile: true
     <div class="news-date">Nov. 2026</div>
     <div class="news-text">
       Our research published in
-      <a href="https://doi.org/10.1103/nqhj-dppn" target="_blank" rel="noopener noreferrer" style="color: inherit;"><strong>PRX Energy</strong></a>
+      <a href="https://doi.org/10.1103/nqhj-dppn" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;"><strong>PRX Energy</strong></a>
       is cited as one of the principal references in the English Wikipedia article on
-      <a href="https://en.wikipedia.org/wiki/Crud_(radioactive_waste)" target="_blank" rel="noopener noreferrer" style="color: inherit;"><strong>CRUD</strong></a>.
+      <a href="https://en.wikipedia.org/wiki/Crud_(radioactive_waste)" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;"><strong>CRUD</strong></a>.
     </div>
   </div>
 
@@ -50,7 +50,8 @@ author_profile: true
   <div class="news-card">
     <div class="news-date">Jan. 2026</div>
     <div class="news-text">
-      I am honored with the title of <strong>Shanghai Outstanding Graduate</strong>.
+      I am honored with the title of
+      <a href="https://me.sjtu.edu.cn/xsyd-xsfc/77902.html" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;"><strong>Shanghai Outstanding Graduate</strong></a>.
     </div>
   </div>
 
